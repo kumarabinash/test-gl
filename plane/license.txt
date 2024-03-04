@@ -1,0 +1,8 @@
+Model Information:
+* title:	Bordiac B40
+* source:	https://sketchfab.com/3d-models/bordiac-b40-cb1c377f2c6446c88feb301aadef7dfb
+* author:	Sukhoi KR-860 (https://sketchfab.com/jevy72267)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
